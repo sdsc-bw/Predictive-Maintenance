@@ -118,7 +118,7 @@ lime==0.2.0.1
 llvmlite==0.31.0
 locket==0.2.0
 lockfile==0.12.2
-lxml==4.5.0
+lxml==4.6.3
 Markdown==3.3.3
 MarkupSafe==1.1.1
 matplotlib==3.1.3
